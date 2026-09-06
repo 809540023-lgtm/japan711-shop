@@ -1,1132 +1,2160 @@
 [
   {
-    "title": "香草卡士達泡芙（神セブンNo.1）",
-    "desc": "バニラ広がるカスタードシュー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥173（含稅）",
-    "qty": "1入",
-    "priceJPY": 173,
-    "weight_g": 0,
-    "category": "神セブン甜點",
-    "images": [
-      "images/p001-1.jpg"
-    ]
-  },
-  {
-    "title": "雙層鮮奶油泡芙",
-    "desc": "たっぷりホイップWシュー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥180（含稅）",
-    "qty": "1入",
-    "priceJPY": 180,
-    "weight_g": 0,
-    "category": "神セブン甜點",
-    "images": [
-      "images/p002-1.jpg"
-    ]
-  },
-  {
-    "title": "入口即化卡士達閃電泡芙",
-    "desc": "カスタードエクレア｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥180（含稅）",
-    "qty": "1入",
-    "priceJPY": 180,
-    "weight_g": 0,
-    "category": "神セブン甜點",
-    "images": [
-      "images/p003-1.jpg"
-    ]
-  },
-  {
-    "title": "布丁生銅鑼燒",
-    "desc": "ぷりん生どら焼｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥158（含稅）",
-    "qty": "1入",
-    "priceJPY": 158,
-    "weight_g": 0,
-    "category": "神セブン甜點",
-    "images": [
-      "images/p004-1.jpg"
-    ]
-  },
-  {
-    "title": "紅豆大福（鹽味豆大福）",
-    "desc": "豆いっぱい塩豆大福｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥140（含稅）",
-    "qty": "1入",
-    "priceJPY": 140,
-    "weight_g": 0,
-    "category": "神セブン甜點",
-    "images": []
-  },
-  {
-    "title": "濃厚牛奶寒天凍",
-    "desc": "濃厚ミルク寒天｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥260（含稅）",
-    "qty": "1入",
-    "priceJPY": 260,
-    "weight_g": 0,
-    "category": "神セブン甜點",
-    "images": []
-  },
-  {
-    "title": "7P 抹茶大福",
-    "desc": "抹茶大福｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥160（含稅）",
-    "qty": "1入",
-    "priceJPY": 160,
-    "weight_g": 0,
-    "category": "神セブン甜點",
-    "images": []
-  },
-  {
-    "title": "直火烤布丁",
-    "desc": "直火焼きプリン｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥298（含稅）",
-    "qty": "1入",
-    "priceJPY": 298,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": [
-      "images/p007-1.jpg"
-    ]
-  },
-  {
-    "title": "濕潤年輪蛋糕",
-    "desc": "しっとりバウムクーヘン｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥298（含稅）",
-    "qty": "1入",
-    "priceJPY": 298,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": [
-      "images/p008-1.jpg"
-    ]
-  },
-  {
-    "title": "濃厚巧克力蛋糕",
-    "desc": "ガトーショコラ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥300（含稅）",
-    "qty": "1入",
-    "priceJPY": 300,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": [
-      "images/p020-1.jpg"
-    ]
-  },
-  {
-    "title": "一口巧克力（冷凍更美味）",
-    "desc": "ひとくちショコラ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥200（含稅）",
-    "qty": "1入",
-    "priceJPY": 200,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": [
-      "images/p021-1.jpg"
-    ]
-  },
-  {
-    "title": "抹茶巧克力球",
-    "desc": "抹茶チョコボール｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥200（含稅）",
-    "qty": "1入",
-    "priceJPY": 200,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": [
-      "images/p022-1.jpg"
-    ]
-  },
-  {
-    "title": "北海道牛奶布丁",
-    "desc": "北のミルクプリン｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥180（含稅）",
-    "qty": "1入",
-    "priceJPY": 180,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": [
-      "images/p024-1.jpg"
-    ]
-  },
-  {
-    "title": "烤起司舒芙蕾",
-    "desc": "チーズスフレ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥250（含稅）",
-    "qty": "1入",
-    "priceJPY": 250,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": [
-      "images/p035-1.jpg"
-    ]
-  },
-  {
-    "title": "7P 起司條",
-    "desc": "チーズスティック｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥200（含稅）",
-    "qty": "1入",
-    "priceJPY": 200,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": [
-      "images/p083-1.jpg"
-    ]
-  },
-  {
-    "title": "7P 豆腐甜點棒（高纖蛋白）",
-    "desc": "豆腐ドロリッチ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥160（含稅）",
-    "qty": "1入",
-    "priceJPY": 160,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": []
-  },
-  {
-    "title": "7P 草莓夾心蛋糕",
-    "desc": "ストロベリーケーキ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥300（含稅）",
-    "qty": "1入",
-    "priceJPY": 300,
-    "weight_g": 0,
-    "category": "冷藏甜點",
-    "images": []
-  },
-  {
-    "title": "發酵奶油巧克力泡芙",
-    "desc": "発酵バター香るチョコシュー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥200（含稅）",
-    "qty": "1入",
-    "priceJPY": 200,
-    "weight_g": 0,
-    "category": "洋菓子",
-    "images": [
-      "images/p012-1.jpg"
-    ]
-  },
-  {
-    "title": "濃莓巧克力草莓夾心酥",
-    "desc": "濃苺ショコラ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥220（含稅）",
-    "qty": "1入",
-    "priceJPY": 220,
-    "weight_g": 0,
-    "category": "洋菓子",
-    "images": [
-      "images/p013-1.jpg"
-    ]
-  },
-  {
-    "title": "宇治抹茶夾心酥",
-    "desc": "宇治抹茶夾心｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥220（含稅）",
-    "qty": "1入",
-    "priceJPY": 220,
-    "weight_g": 0,
-    "category": "洋菓子",
-    "images": [
-      "images/p014-1.jpg"
-    ]
-  },
-  {
-    "title": "蘭姆葡萄夾心餅",
-    "desc": "ラムレーズンバター｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥210（含稅）",
-    "qty": "1入",
-    "priceJPY": 210,
-    "weight_g": 0,
-    "category": "洋菓子",
-    "images": [
-      "images/p023-1.jpg"
-    ]
-  },
-  {
-    "title": "7Cafe 砂糖奶油樹白巧克力脆餅",
-    "desc": "サトウバターの木 白｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥198（含稅）",
-    "qty": "1入",
-    "priceJPY": 198,
-    "weight_g": 0,
-    "category": "7Cafe",
-    "images": [
-      "images/p015-1.jpg"
-    ]
-  },
-  {
-    "title": "焦糖布蕾砂糖樹夾心餅乾",
-    "desc": "キャラメルブレ砂糖樹｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥198（含稅）",
-    "qty": "1入",
-    "priceJPY": 198,
-    "weight_g": 0,
-    "category": "7Cafe",
-    "images": [
-      "images/p016-1.jpg"
-    ]
-  },
-  {
-    "title": "原味砂糖樹夾心餅乾",
-    "desc": "砂糖樹夾心餅乾｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥198（含稅）",
-    "qty": "1入",
-    "priceJPY": 198,
-    "weight_g": 0,
-    "category": "7Cafe",
-    "images": [
-      "images/p017-1.jpg"
-    ]
-  },
-  {
-    "title": "7Cafe 砂糖奶油樹脆餅（原味）",
-    "desc": "サトウバターの木｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥198（含稅）",
-    "qty": "1入",
-    "priceJPY": 198,
-    "weight_g": 0,
-    "category": "7Cafe",
-    "images": []
-  },
-  {
-    "title": "砂糖樹10入禮盒",
-    "desc": "砂糖樹 10個入｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥1,980（含稅）",
-    "qty": "10入",
-    "priceJPY": 1980,
-    "weight_g": 0,
-    "category": "禮盒",
-    "images": [
-      "images/p018-1.jpg"
-    ]
-  },
-  {
-    "title": "富士山形奶油餅乾",
-    "desc": "富士山バター｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥580（含稅）",
-    "qty": "1入",
-    "priceJPY": 580,
-    "weight_g": 0,
-    "category": "禮盒",
-    "images": [
-      "images/p019-1.jpg"
-    ]
-  },
-  {
-    "title": "焦糖烤布蕾冰淇淋",
-    "desc": "ブリュレアイス｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥358（含稅）",
-    "qty": "1入",
-    "priceJPY": 358,
-    "weight_g": 0,
-    "category": "冰淇淋",
-    "images": [
-      "images/p009-1.jpg"
-    ]
-  },
-  {
-    "title": "金之甜筒（香草牛奶）",
-    "desc": "金のソフト 純生ホイップ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥322（含稅）",
-    "qty": "1入",
-    "priceJPY": 322,
-    "weight_g": 0,
-    "category": "冰淇淋",
-    "images": [
-      "images/p010-1.jpg"
-    ]
-  },
-  {
-    "title": "白熊煉乳冰淇淋",
-    "desc": "白熊アイス｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥300（含稅）",
-    "qty": "1入",
-    "priceJPY": 300,
-    "weight_g": 0,
-    "category": "冰淇淋",
-    "images": [
-      "images/p011-1.jpg"
-    ]
-  },
-  {
-    "title": "馬達加斯加香草冰淇淋",
-    "desc": "バニラアイス｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥250（含稅）",
-    "qty": "1入",
-    "priceJPY": 250,
-    "weight_g": 0,
-    "category": "冰淇淋",
-    "images": [
-      "images/p071-1.jpg"
-    ]
-  },
-  {
-    "title": "哈根達斯 7-11限定",
-    "desc": "ハーゲンダッツ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥300（含稅）",
-    "qty": "1入",
-    "priceJPY": 300,
-    "weight_g": 0,
-    "category": "冰淇淋",
-    "images": []
-  },
-  {
-    "title": "PRESS BUTTER SAND 奶油夾心餅",
-    "desc": "PRESS BUTTER SAND｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥180（含稅）",
-    "qty": "1入",
-    "priceJPY": 180,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p025-1.jpg"
-    ]
-  },
-  {
-    "title": "薯條三兄弟",
-    "desc": "じゃがビー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥200（含稅）",
-    "qty": "1入",
-    "priceJPY": 200,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p026-1.jpg"
-    ]
-  },
-  {
-    "title": "Calbee 薯條杯",
-    "desc": "じゃがりこ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥150（含稅）",
-    "qty": "1入",
-    "priceJPY": 150,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p027-1.jpg"
-    ]
-  },
-  {
-    "title": "Calbee 加卡比薯條",
-    "desc": "Jagabee｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥180（含稅）",
-    "qty": "1入",
-    "priceJPY": 180,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p028-1.jpg"
-    ]
-  },
-  {
-    "title": "Bourbon 帆船迷你巧克力",
-    "desc": "アルフォートミニチョコ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥150（含稅）",
-    "qty": "1入",
-    "priceJPY": 150,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p029-1.jpg"
-    ]
-  },
-  {
-    "title": "不二家 鄉村餅 濃厚可可",
-    "desc": "チョコ君｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥150（含稅）",
-    "qty": "1入",
-    "priceJPY": 150,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p030-1.jpg"
-    ]
-  },
-  {
-    "title": "Kanro Pure 鮮果軟糖",
-    "desc": "ピュレグミ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥150（含稅）",
-    "qty": "1入",
-    "priceJPY": 150,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p031-1.jpg"
-    ]
-  },
-  {
-    "title": "Crunky 脆心巧克力球",
-    "desc": "クランキー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥160（含稅）",
-    "qty": "1入",
-    "priceJPY": 160,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p032-1.jpg"
-    ]
-  },
-  {
-    "title": "卡樂比 可樂果起司味",
-    "desc": "カリカリコーン｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥150（含稅）",
-    "qty": "1入",
-    "priceJPY": 150,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p040-1.jpg"
-    ]
-  },
-  {
-    "title": "波的多 ポテリッチ 濃湯味",
-    "desc": "ポテリッチ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥160（含稅）",
-    "qty": "1入",
-    "priceJPY": 160,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": [
-      "images/p042-1.jpg"
-    ]
-  },
-  {
-    "title": "味覺糖 地瓜片",
-    "desc": "いもけんぴ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥150（含稅）",
-    "qty": "1入",
-    "priceJPY": 150,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": []
-  },
-  {
-    "title": "MINTIA 清涼錠",
-    "desc": "ミンティア｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥130（含稅）",
-    "qty": "1入",
-    "priceJPY": 130,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": []
-  },
-  {
-    "title": "UHA味覺糖 濃抹茶",
-    "desc": "コロロ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥150（含稅）",
-    "qty": "1入",
-    "priceJPY": 150,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": []
-  },
-  {
-    "title": "波的多 洋芋片 燻製奶油",
-    "desc": "ポテトチップス燻製バター｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥160（含稅）",
-    "qty": "1入",
-    "priceJPY": 160,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": []
-  },
-  {
-    "title": "AND THE FRIET 薯條餅",
-    "desc": "AND THE FRIET｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥300（含稅）",
-    "qty": "1入",
-    "priceJPY": 300,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": []
-  },
-  {
-    "title": "THE MAPLE MANIA 楓糖餅乾",
-    "desc": "メープルマニア｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥350（含稅）",
-    "qty": "1入",
-    "priceJPY": 350,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": []
-  },
-  {
-    "title": "LeTAO 紅茶巧克力餅",
-    "desc": "ルタオ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥400（含稅）",
-    "qty": "1入",
-    "priceJPY": 400,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": []
-  },
-  {
-    "title": "東京牛奶起司工房 餅乾",
-    "desc": "東京ミルクチーズ工房｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥500（含稅）",
-    "qty": "1入",
-    "priceJPY": 500,
-    "weight_g": 0,
-    "category": "人氣零食",
-    "images": []
-  },
-  {
     "title": "7P 巧克力豆餅乾",
-    "desc": "チョコチップクッキー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "チョコチップクッキー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥130（含稅）",
     "qty": "1入",
     "priceJPY": 130,
     "weight_g": 0,
     "category": "7-Premium",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
     "images": [
       "images/p033-1.jpg"
     ]
   },
   {
     "title": "巧克力棒",
-    "desc": "チョコ棒｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "チョコ棒｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥150（含稅）",
     "qty": "1入",
     "priceJPY": 150,
     "weight_g": 0,
     "category": "7-Premium",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
       "images/p034-1.jpg"
     ]
   },
   {
     "title": "巧克力脆餅",
-    "desc": "チョコレートサンド｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "チョコレートサンド｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥160（含稅）",
     "qty": "1入",
     "priceJPY": 160,
     "weight_g": 0,
     "category": "7-Premium",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
       "images/p036-1.jpg"
     ]
   },
   {
     "title": "7P 醬燒紅蝦餅",
-    "desc": "海老せんべい｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "海老せんべい｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥150（含稅）",
     "qty": "1入",
     "priceJPY": 150,
     "weight_g": 0,
     "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
     "images": [
       "images/p043-1.jpg"
     ]
   },
   {
     "title": "7P 海鮮仙貝",
-    "desc": "海鮮せんべい｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "海鮮せんべい｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥150（含稅）",
     "qty": "1入",
     "priceJPY": 150,
     "weight_g": 0,
     "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
     "images": [
       "images/p044-1.jpg"
     ]
   },
   {
+    "title": "小倉山莊 仙貝組合",
+    "desc": "おかき詰め合わせ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥400（含稅）",
+    "qty": "1入",
+    "priceJPY": 400,
+    "weight_g": 0,
+    "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "柿種 花生米菓子",
+    "desc": "柿の種｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
     "title": "厚切牛肉乾",
-    "desc": "ビーフジャーキー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "ビーフジャーキー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥300（含稅）",
     "qty": "1入",
     "priceJPY": 300,
     "weight_g": 0,
     "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
       "images/p054-1.jpg"
     ]
   },
   {
     "title": "煙燻魷魚絲",
-    "desc": "くんさき｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "くんさき｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥200（含稅）",
     "qty": "1入",
     "priceJPY": 200,
     "weight_g": 0,
     "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
       "images/p061-1.jpg"
     ]
   },
   {
-    "title": "小倉山莊 仙貝組合",
-    "desc": "おかき詰め合わせ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥400（含稅）",
-    "qty": "1入",
-    "priceJPY": 400,
-    "weight_g": 0,
-    "category": "下酒零食",
-    "images": []
-  },
-  {
-    "title": "柿種 花生米菓子",
-    "desc": "柿の種｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥200（含稅）",
-    "qty": "1入",
-    "priceJPY": 200,
-    "weight_g": 0,
-    "category": "下酒零食",
-    "images": []
-  },
-  {
-    "title": "NANACHIKI 自家炸雞",
-    "desc": "ナナチキ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥170（含稅）",
-    "qty": "1入",
-    "priceJPY": 170,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": [
-      "images/p051-1.jpg"
-    ]
-  },
-  {
-    "title": "唐揚雞串",
-    "desc": "串炸唐揚｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥180（含稅）",
-    "qty": "1入",
-    "priceJPY": 180,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": [
-      "images/p052-1.jpg"
-    ]
-  },
-  {
-    "title": "炸咖哩麵包",
-    "desc": "カレーパン｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥180（含稅）",
-    "qty": "1入",
-    "priceJPY": 180,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": [
-      "images/p053-1.jpg"
-    ]
-  },
-  {
-    "title": "金之燉牛肉罐頭",
-    "desc": "金の牛すき鍋｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥400（含稅）",
-    "qty": "1入",
-    "priceJPY": 400,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": [
-      "images/p055-1.jpg"
-    ]
-  },
-  {
-    "title": "牛內臟燒",
-    "desc": "もつ焼き｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥200（含稅）",
-    "qty": "1入",
-    "priceJPY": 200,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": [
-      "images/p056-1.jpg"
-    ]
-  },
-  {
-    "title": "つゆだく牛丼",
-    "desc": "つゆだく牛丼｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥420（含稅）",
-    "qty": "1入",
-    "priceJPY": 420,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": [
-      "images/p058-1.jpg"
-    ]
-  },
-  {
-    "title": "北海道馬鈴薯牛肉可樂餅",
-    "desc": "コロッケ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥140（含稅）",
-    "qty": "1入",
-    "priceJPY": 140,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": []
-  },
-  {
-    "title": "すみれ札幌濃厚味噌拉麵",
-    "desc": "すみれ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥450（含稅）",
-    "qty": "1入",
-    "priceJPY": 450,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": []
-  },
-  {
-    "title": "7P 烤鯖魚",
-    "desc": "さばの塩焼き｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥300（含稅）",
-    "qty": "1入",
-    "priceJPY": 300,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": []
-  },
-  {
-    "title": "7P 極上生食麵包",
-    "desc": "究極の生食パン｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥250（含稅）",
-    "qty": "1入",
-    "priceJPY": 250,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": []
-  },
-  {
-    "title": "7P 火腿蛋三明治",
-    "desc": "サンドイッチ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥250（含稅）",
-    "qty": "1入",
-    "priceJPY": 250,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": []
-  },
-  {
-    "title": "7P 鮭魚飯糰",
-    "desc": "おにぎり｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥170（含稅）",
-    "qty": "1入",
-    "priceJPY": 170,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": []
-  },
-  {
-    "title": "7P 親子丼",
-    "desc": "親子丼｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥450（含稅）",
-    "qty": "1入",
-    "priceJPY": 450,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": []
-  },
-  {
-    "title": "7P 照燒雞便當",
-    "desc": "弁当｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥580（含稅）",
-    "qty": "1入",
-    "priceJPY": 580,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": []
-  },
-  {
-    "title": "7P 生沙拉雞肉",
-    "desc": "サラダチキン｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥200（含稅）",
-    "qty": "1入",
-    "priceJPY": 200,
-    "weight_g": 0,
-    "category": "熟食",
-    "images": []
-  },
-  {
-    "title": "蒙古湯麵中本 辛旨味噌",
-    "desc": "蒙古湯麵中本｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥220（含稅）",
-    "qty": "1入",
-    "priceJPY": 220,
-    "weight_g": 0,
-    "category": "沖泡",
-    "images": [
-      "images/p060-1.jpg"
-    ]
-  },
-  {
-    "title": "日東紅茶 皇家奶茶",
-    "desc": "ロイヤルミルクティー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥300（含稅）",
-    "qty": "1入",
-    "priceJPY": 300,
-    "weight_g": 0,
-    "category": "沖泡",
-    "images": [
-      "images/p070-1.jpg"
-    ]
-  },
-  {
-    "title": "現打果昔（巴西莓香蕉）",
-    "desc": "スムージー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥250（含稅）",
-    "qty": "1入",
-    "priceJPY": 250,
-    "weight_g": 0,
-    "category": "7Cafe飲品",
-    "images": [
-      "images/p062-1.jpg"
-    ]
-  },
-  {
-    "title": "透明杯裝拿鐵",
-    "desc": "透明カップ拿鐵｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥158（含稅）",
-    "qty": "1入",
-    "priceJPY": 158,
-    "weight_g": 0,
-    "category": "7Cafe飲品",
-    "images": [
-      "images/p063-1.jpg"
-    ]
-  },
-  {
-    "title": "現泡鮮奶茶",
-    "desc": "リーフティー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥158（含稅）",
-    "qty": "1入",
-    "priceJPY": 158,
-    "weight_g": 0,
-    "category": "7Cafe飲品",
-    "images": [
-      "images/p064-1.jpg"
-    ]
-  },
-  {
-    "title": "可可飲料",
-    "desc": "ココア｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥130（含稅）",
-    "qty": "1入",
-    "priceJPY": 130,
-    "weight_g": 0,
-    "category": "7Cafe飲品",
-    "images": [
-      "images/p065-1.jpg"
-    ]
-  },
-  {
-    "title": "7Cafe 現泡紅茶",
-    "desc": "ティー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "title": "7P 鹽味仙貝",
+    "desc": "塩味せんべい｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥150（含稅）",
     "qty": "1入",
     "priceJPY": 150,
     "weight_g": 0,
-    "category": "7Cafe飲品",
+    "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
     "images": []
   },
   {
-    "title": "7Cafe 現磨咖啡",
-    "desc": "コーヒー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥120（含稅）",
+    "title": "7P 鹽味仙貝",
+    "desc": "塩味せんべい｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
     "qty": "1入",
-    "priceJPY": 120,
+    "priceJPY": 150,
     "weight_g": 0,
-    "category": "7Cafe飲品",
+    "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
     "images": []
   },
   {
-    "title": "7Cafe 抹茶拿鐵",
-    "desc": "抹茶ラテ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "title": "7P 堅果組合",
+    "desc": "ナッツ詰め合わせ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥400（含稅）",
+    "qty": "1入",
+    "priceJPY": 400,
+    "weight_g": 0,
+    "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 米果",
+    "desc": "おかき｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 抹茶夾心仙貝",
+    "desc": "抹茶クリームせんべい｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "下酒零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "PRESS BUTTER SAND 奶油夾心餅",
+    "desc": "PRESS BUTTER SAND｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥180（含稅）",
     "qty": "1入",
     "priceJPY": 180,
     "weight_g": 0,
-    "category": "7Cafe飲品",
-    "images": []
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p025-1.jpg"
+    ]
   },
   {
-    "title": "星巴克瓶裝拿鐵",
-    "desc": "スターバックス｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "title": "薯條三兄弟",
+    "desc": "じゃがビー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p026-1.jpg"
+    ]
+  },
+  {
+    "title": "Calbee 薯條杯",
+    "desc": "じゃがりこ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p027-1.jpg"
+    ]
+  },
+  {
+    "title": "Calbee 加卡比薯條",
+    "desc": "Jagabee｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥180（含稅）",
     "qty": "1入",
     "priceJPY": 180,
     "weight_g": 0,
-    "category": "飲品",
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
-      "images/p068-1.jpg"
+      "images/p028-1.jpg"
     ]
   },
   {
-    "title": "養樂多 Y1000",
-    "desc": "ヤクルト1000｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥438（含稅）",
+    "title": "Bourbon 帆船迷你巧克力",
+    "desc": "アルフォートミニチョコ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
     "qty": "1入",
-    "priceJPY": 438,
+    "priceJPY": 150,
     "weight_g": 0,
-    "category": "飲品",
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
-      "images/p069-1.jpg"
+      "images/p029-1.jpg"
     ]
   },
   {
-    "title": "CLEAR COOLER 沙瓦",
-    "desc": "クリアカーボ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "title": "不二家 鄉村餅 濃厚可可",
+    "desc": "チョコ君｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p030-1.jpg"
+    ]
+  },
+  {
+    "title": "Kanro Pure 鮮果軟糖",
+    "desc": "ピュレグミ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p031-1.jpg"
+    ]
+  },
+  {
+    "title": "Crunky 脆心巧克力球",
+    "desc": "クランキー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥160（含稅）",
     "qty": "1入",
     "priceJPY": 160,
     "weight_g": 0,
-    "category": "酒類",
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
-      "images/p066-1.jpg"
+      "images/p032-1.jpg"
     ]
   },
   {
-    "title": "SUNTORY THE BREW 啤酒",
-    "desc": "ザ・ブリュー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥230（含稅）",
+    "title": "味覺糖 地瓜片",
+    "desc": "いもけんぴ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
     "qty": "1入",
-    "priceJPY": 230,
+    "priceJPY": 150,
     "weight_g": 0,
-    "category": "酒類",
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "MINTIA 清涼錠",
+    "desc": "ミンティア｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥130（含稅）",
+    "qty": "1入",
+    "priceJPY": 130,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "UHA味覺糖 濃抹茶",
+    "desc": "コロロ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "卡樂比 可樂果起司味",
+    "desc": "カリカリコーン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
-      "images/p067-1.jpg"
+      "images/p040-1.jpg"
     ]
+  },
+  {
+    "title": "波的多 洋芋片 燻製奶油",
+    "desc": "ポテトチップス燻製バター｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥160（含稅）",
+    "qty": "1入",
+    "priceJPY": 160,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "波的多 ポテリッチ 濃湯味",
+    "desc": "ポテリッチ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥160（含稅）",
+    "qty": "1入",
+    "priceJPY": 160,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p042-1.jpg"
+    ]
+  },
+  {
+    "title": "AND THE FRIET 薯條餅",
+    "desc": "AND THE FRIET｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "THE MAPLE MANIA 楓糖餅乾",
+    "desc": "メープルマニア｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥350（含稅）",
+    "qty": "1入",
+    "priceJPY": 350,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "LeTAO 紅茶巧克力餅",
+    "desc": "ルタオ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥400（含稅）",
+    "qty": "1入",
+    "priceJPY": 400,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "東京牛奶起司工房 餅乾",
+    "desc": "東京ミルクチーズ工房｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥500（含稅）",
+    "qty": "1入",
+    "priceJPY": 500,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "7P 焦糖爆米花",
+    "desc": "キャラメルコーン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 起司奶油夾心",
+    "desc": "チーズサンド｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 洋芋片 海苔鹽味",
+    "desc": "ポテトチップス｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 焦糖爆米花",
+    "desc": "キャラメルコーン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 起司奶油夾心",
+    "desc": "チーズサンド｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 洋芋片海苔鹽味",
+    "desc": "ポテトチップス｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "チップスター 洋芋片",
+    "desc": "チップスター｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "波的多 薯條棒",
+    "desc": "ポテトスティック｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "7P 蝦味先",
+    "desc": "エビスナック｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "人氣零食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
   },
   {
     "title": "FANCL 草本保養系列",
-    "desc": "ボタニカルフォース｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "ボタニカルフォース｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥1,500（含稅）",
     "qty": "1入",
     "priceJPY": 1500,
     "weight_g": 0,
     "category": "保養",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
       "images/p073-1.jpg"
     ]
   },
   {
     "title": "7P 藥用護唇膏",
-    "desc": "リップクリーム｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "リップクリーム｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥400（含稅）",
     "qty": "1入",
     "priceJPY": 400,
     "weight_g": 0,
     "category": "保養",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
     "images": [
       "images/p076-1.jpg"
     ]
   },
   {
     "title": "雪肌粹BB霜",
-    "desc": "雪肌粋BBクリーム｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "雪肌粋BBクリーム｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥1,650（含稅）",
     "qty": "1入",
     "priceJPY": 1650,
     "weight_g": 0,
     "category": "保養",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
       "images/p077-1.jpg"
     ]
   },
   {
-    "title": "7P 文具系列",
-    "desc": "7LifeStyle｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "title": "蒙古湯麵中本 辛旨味噌",
+    "desc": "蒙古湯麵中本｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥220（含稅）",
+    "qty": "1入",
+    "priceJPY": 220,
+    "weight_g": 0,
+    "category": "沖泡",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p060-1.jpg"
+    ]
+  },
+  {
+    "title": "日東紅茶 皇家奶茶",
+    "desc": "ロイヤルミルクティー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "沖泡",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p070-1.jpg"
+    ]
+  },
+  {
+    "title": "7P 玄米茶",
+    "desc": "玄米茶｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "沖泡",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 蒙古湯麵杯麵",
+    "desc": "カップ麺｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥190（含稅）",
+    "qty": "1入",
+    "priceJPY": 190,
+    "weight_g": 0,
+    "category": "沖泡",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 味噌拉麵",
+    "desc": "味噌ラーメン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥200（含稅）",
     "qty": "1入",
     "priceJPY": 200,
     "weight_g": 0,
-    "category": "生活",
+    "category": "沖泡",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 鹽味拉麵",
+    "desc": "塩ラーメン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "沖泡",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 關東煮湯粉",
+    "desc": "おでんの素｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "沖泡",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "發酵奶油巧克力泡芙",
+    "desc": "発酵バター香るチョコシュー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "洋菓子",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
-      "images/p075-1.jpg"
+      "images/p012-1.jpg"
     ]
   },
   {
-    "title": "自動摺疊傘（吸水布）",
-    "desc": "自動折りたたみ傘｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥1,000（含稅）",
+    "title": "濃莓巧克力草莓夾心酥",
+    "desc": "濃苺ショコラ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥220（含稅）",
     "qty": "1入",
-    "priceJPY": 1000,
+    "priceJPY": 220,
     "weight_g": 0,
-    "category": "生活",
+    "category": "洋菓子",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
-      "images/p079-1.jpg"
+      "images/p013-1.jpg"
     ]
+  },
+  {
+    "title": "宇治抹茶夾心酥",
+    "desc": "宇治抹茶夾心｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥220（含稅）",
+    "qty": "1入",
+    "priceJPY": 220,
+    "weight_g": 0,
+    "category": "洋菓子",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p014-1.jpg"
+    ]
+  },
+  {
+    "title": "蘭姆葡萄夾心餅",
+    "desc": "ラムレーズンバター｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥210（含稅）",
+    "qty": "1入",
+    "priceJPY": 210,
+    "weight_g": 0,
+    "category": "洋菓子",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p023-1.jpg"
+    ]
+  },
+  {
+    "title": "金之燉牛肉罐頭",
+    "desc": "金の牛すき鍋｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥400（含稅）",
+    "qty": "1入",
+    "priceJPY": 400,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p055-1.jpg"
+    ]
+  },
+  {
+    "title": "7P 醬油炒麵",
+    "desc": "焼きそば｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥180（含稅）",
+    "qty": "1入",
+    "priceJPY": 180,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": []
   },
   {
     "title": "7P 巧克力脆餅（7-LifeStyle）",
-    "desc": "チョコクランチ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "チョコクランチ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥150（含稅）",
     "qty": "1入",
     "priceJPY": 150,
     "weight_g": 0,
     "category": "生活",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
     "images": []
   },
   {
     "title": "7P 不織布口罩（40入）",
-    "desc": "マスク｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "マスク｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥400（含稅）",
     "qty": "40入",
     "priceJPY": 400,
     "weight_g": 0,
     "category": "生活",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
     "images": []
   },
   {
-    "title": "止汗清涼濕紙巾",
-    "desc": "さっぱりシート｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "title": "7P 文具系列",
+    "desc": "7LifeStyle｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥200（含稅）",
     "qty": "1入",
     "priceJPY": 200,
     "weight_g": 0,
     "category": "生活",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "7-11限定",
+    "images": [
+      "images/p075-1.jpg"
+    ]
+  },
+  {
+    "title": "止汗清涼濕紙巾",
+    "desc": "さっぱりシート｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "生活",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": []
   },
   {
+    "title": "自動摺疊傘（吸水布）",
+    "desc": "自動折りたたみ傘｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥1,000（含稅）",
+    "qty": "1入",
+    "priceJPY": 1000,
+    "weight_g": 0,
+    "category": "生活",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p079-1.jpg"
+    ]
+  },
+  {
+    "title": "砂糖樹10入禮盒",
+    "desc": "砂糖樹 10個入｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥1,980（含稅）",
+    "qty": "10入",
+    "priceJPY": 1980,
+    "weight_g": 0,
+    "category": "禮盒",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p018-1.jpg"
+    ]
+  },
+  {
+    "title": "富士山形奶油餅乾",
+    "desc": "富士山バター｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥580（含稅）",
+    "qty": "1入",
+    "priceJPY": 580,
+    "weight_g": 0,
+    "category": "禮盒",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p019-1.jpg"
+    ]
+  },
+  {
     "title": "吉伊卡哇聯名環保袋",
-    "desc": "ちいかわエコバッグ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "ちいかわエコバッグ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥800（含稅）",
     "qty": "1入",
     "priceJPY": 800,
     "weight_g": 0,
     "category": "聯名",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
       "images/p080-1.jpg"
     ]
   },
   {
     "title": "吉伊卡哇聯名保溫杯",
-    "desc": "ちいかわマグ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "ちいかわマグ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥900（含稅）",
     "qty": "1入",
     "priceJPY": 900,
     "weight_g": 0,
     "category": "聯名",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
     "images": [
       "images/p081-1.jpg"
     ]
   },
   {
-    "title": "7P 冷凍調理包",
-    "desc": "冷凍調理包｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
-    "price": "日本售價 JP¥400（含稅）",
+    "title": "CLEAR COOLER 沙瓦",
+    "desc": "クリアカーボ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥160（含稅）",
     "qty": "1入",
-    "priceJPY": 400,
+    "priceJPY": 160,
     "weight_g": 0,
-    "category": "冷凍",
-    "images": []
+    "category": "酒類",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p066-1.jpg"
+    ]
+  },
+  {
+    "title": "SUNTORY THE BREW 啤酒",
+    "desc": "ザ・ブリュー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥230（含稅）",
+    "qty": "1入",
+    "priceJPY": 230,
+    "weight_g": 0,
+    "category": "酒類",
+    "storage": "常溫",
+    "shippable": true,
+    "channel": "待確認",
+    "images": [
+      "images/p067-1.jpg"
+    ]
   },
   {
     "title": "7P 蛋白棒",
-    "desc": "プロテインバー｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "プロテインバー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥200（含稅）",
     "qty": "1入",
     "priceJPY": 200,
     "weight_g": 0,
     "category": "健康",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
     "images": []
   },
   {
     "title": "7P 高纖豆乳餅乾",
-    "desc": "豆腐ドーナツ｜日本7-11人氣代購商品， Threads/Dcard 熱議款。",
+    "desc": "豆腐ドーナツ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
     "price": "日本售價 JP¥150（含稅）",
     "qty": "1入",
     "priceJPY": 150,
     "weight_g": 0,
     "category": "健康",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 蛋白棒",
+    "desc": "プロテインバー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "健康",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 高纖豆腐甜甜圈",
+    "desc": "豆腐ドーナツ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "健康",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "直火烤布丁",
+    "desc": "直火焼きプリン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥298（含稅）",
+    "qty": "1入",
+    "priceJPY": 298,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p007-1.jpg"
+    ]
+  },
+  {
+    "title": "濕潤年輪蛋糕",
+    "desc": "しっとりバウムクーヘン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥298（含稅）",
+    "qty": "1入",
+    "priceJPY": 298,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p008-1.jpg"
+    ]
+  },
+  {
+    "title": "濃厚巧克力蛋糕",
+    "desc": "ガトーショコラ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p020-1.jpg"
+    ]
+  },
+  {
+    "title": "一口巧克力（冷凍更美味）",
+    "desc": "ひとくちショコラ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p021-1.jpg"
+    ]
+  },
+  {
+    "title": "抹茶巧克力球",
+    "desc": "抹茶チョコボール｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p022-1.jpg"
+    ]
+  },
+  {
+    "title": "北海道牛奶布丁",
+    "desc": "北のミルクプリン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥180（含稅）",
+    "qty": "1入",
+    "priceJPY": 180,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p024-1.jpg"
+    ]
+  },
+  {
+    "title": "烤起司舒芙蕾",
+    "desc": "チーズスフレ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p035-1.jpg"
+    ]
+  },
+  {
+    "title": "7P 豆腐甜點棒（高纖蛋白）",
+    "desc": "豆腐ドロリッチ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥160（含稅）",
+    "qty": "1入",
+    "priceJPY": 160,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 起司條",
+    "desc": "チーズスティック｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p083-1.jpg"
+    ]
+  },
+  {
+    "title": "7P 草莓夾心蛋糕",
+    "desc": "ストロベリーケーキ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 果凍優格",
+    "desc": "ヨグルトゼリー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥160（含稅）",
+    "qty": "1入",
+    "priceJPY": 160,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 草莓鮮奶油蛋糕",
+    "desc": "ストロベリーケーキ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 果凍優格",
+    "desc": "ヨグルトゼリー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥160（含稅）",
+    "qty": "1入",
+    "priceJPY": 160,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 抹茶生巧克力",
+    "desc": "生チョコ抹茶｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 季節草莓三明治",
+    "desc": "イチゴサンド｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥400（含稅）",
+    "qty": "1入",
+    "priceJPY": 400,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 黑糖凍",
+    "desc": "黒糖デザート｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "冷藏甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "NANACHIKI 自家炸雞",
+    "desc": "ナナチキ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥170（含稅）",
+    "qty": "1入",
+    "priceJPY": 170,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p051-1.jpg"
+    ]
+  },
+  {
+    "title": "唐揚雞串",
+    "desc": "串炸唐揚｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥180（含稅）",
+    "qty": "1入",
+    "priceJPY": 180,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p052-1.jpg"
+    ]
+  },
+  {
+    "title": "炸咖哩麵包",
+    "desc": "カレーパン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥180（含稅）",
+    "qty": "1入",
+    "priceJPY": 180,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p053-1.jpg"
+    ]
+  },
+  {
+    "title": "牛內臟燒",
+    "desc": "もつ焼き｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p056-1.jpg"
+    ]
+  },
+  {
+    "title": "北海道馬鈴薯牛肉可樂餅",
+    "desc": "コロッケ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥140（含稅）",
+    "qty": "1入",
+    "priceJPY": 140,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "つゆだく牛丼",
+    "desc": "つゆだく牛丼｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥420（含稅）",
+    "qty": "1入",
+    "priceJPY": 420,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p058-1.jpg"
+    ]
+  },
+  {
+    "title": "すみれ札幌濃厚味噌拉麵",
+    "desc": "すみれ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥450（含稅）",
+    "qty": "1入",
+    "priceJPY": 450,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "7P 烤鯖魚",
+    "desc": "さばの塩焼き｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 極上生食麵包",
+    "desc": "究極の生食パン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 火腿蛋三明治",
+    "desc": "サンドイッチ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 鮭魚飯糰",
+    "desc": "おにぎり｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥170（含稅）",
+    "qty": "1入",
+    "priceJPY": 170,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 親子丼",
+    "desc": "親子丼｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥450（含稅）",
+    "qty": "1入",
+    "priceJPY": 450,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 照燒雞便當",
+    "desc": "弁当｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥580（含稅）",
+    "qty": "1入",
+    "priceJPY": 580,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 生沙拉雞肉",
+    "desc": "サラダチキン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 極上生食麵包",
+    "desc": "究極の生食パン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 火腿蛋三明治",
+    "desc": "サンドイッチ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 鮭魚飯糰",
+    "desc": "おにぎり｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥170（含稅）",
+    "qty": "1入",
+    "priceJPY": 170,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 親子丼",
+    "desc": "親子丼｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥450（含稅）",
+    "qty": "1入",
+    "priceJPY": 450,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 照燒雞便當",
+    "desc": "弁当｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥580（含稅）",
+    "qty": "1入",
+    "priceJPY": 580,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 生沙拉雞肉",
+    "desc": "サラダチキン｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 烤鯖魚",
+    "desc": "さばの塩焼き｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 豬肉丼",
+    "desc": "豚丼｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥420（含稅）",
+    "qty": "1入",
+    "priceJPY": 420,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 深夜食堂關東煮",
+    "desc": "おでん｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 茶碗蒸",
+    "desc": "茶碗蒸し｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥160（含稅）",
+    "qty": "1入",
+    "priceJPY": 160,
+    "weight_g": 0,
+    "category": "熟食",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "香草卡士達泡芙（神セブンNo.1）",
+    "desc": "バニラ広がるカスタードシュー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥173（含稅）",
+    "qty": "1入",
+    "priceJPY": 173,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p001-1.jpg"
+    ]
+  },
+  {
+    "title": "雙層鮮奶油泡芙",
+    "desc": "たっぷりホイップWシュー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥180（含稅）",
+    "qty": "1入",
+    "priceJPY": 180,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p002-1.jpg"
+    ]
+  },
+  {
+    "title": "入口即化卡士達閃電泡芙",
+    "desc": "カスタードエクレア｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥180（含稅）",
+    "qty": "1入",
+    "priceJPY": 180,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p003-1.jpg"
+    ]
+  },
+  {
+    "title": "布丁生銅鑼燒",
+    "desc": "ぷりん生どら焼｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥158（含稅）",
+    "qty": "1入",
+    "priceJPY": 158,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p004-1.jpg"
+    ]
+  },
+  {
+    "title": "紅豆大福（鹽味豆大福）",
+    "desc": "豆いっぱい塩豆大福｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥140（含稅）",
+    "qty": "1入",
+    "priceJPY": 140,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "濃厚牛奶寒天凍",
+    "desc": "濃厚ミルク寒天｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥260（含稅）",
+    "qty": "1入",
+    "priceJPY": 260,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 抹茶大福",
+    "desc": "抹茶大福｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥160（含稅）",
+    "qty": "1入",
+    "priceJPY": 160,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 銅鑼燒",
+    "desc": "どら焼き｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 抹茶大福",
+    "desc": "抹茶大福｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥160（含稅）",
+    "qty": "1入",
+    "priceJPY": 160,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 銅鑼燒",
+    "desc": "どら焼き｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 銀杏芋頭大福",
+    "desc": "大福詰め合わせ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "神セブン甜點",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "星巴克瓶裝拿鐵",
+    "desc": "スターバックス｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥180（含稅）",
+    "qty": "1入",
+    "priceJPY": 180,
+    "weight_g": 0,
+    "category": "飲品",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p068-1.jpg"
+    ]
+  },
+  {
+    "title": "養樂多 Y1000",
+    "desc": "ヤクルト1000｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥438（含稅）",
+    "qty": "1入",
+    "priceJPY": 438,
+    "weight_g": 0,
+    "category": "飲品",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p069-1.jpg"
+    ]
+  },
+  {
+    "title": "7P 烏龍茶",
+    "desc": "ウーロン茶｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥120（含稅）",
+    "qty": "1入",
+    "priceJPY": 120,
+    "weight_g": 0,
+    "category": "飲品",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 麥茶",
+    "desc": "麦茶｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥130（含稅）",
+    "qty": "1入",
+    "priceJPY": 130,
+    "weight_g": 0,
+    "category": "飲品",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 果汁100%柳橙",
+    "desc": "オレンジ100｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "飲品",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 牛乳",
+    "desc": "牛乳｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥230（含稅）",
+    "qty": "1入",
+    "priceJPY": 230,
+    "weight_g": 0,
+    "category": "飲品",
+    "storage": "冷藏",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "焦糖烤布蕾冰淇淋",
+    "desc": "ブリュレアイス｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥358（含稅）",
+    "qty": "1入",
+    "priceJPY": 358,
+    "weight_g": 0,
+    "category": "冰淇淋",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p009-1.jpg"
+    ]
+  },
+  {
+    "title": "金之甜筒（香草牛奶）",
+    "desc": "金のソフト 純生ホイップ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥322（含稅）",
+    "qty": "1入",
+    "priceJPY": 322,
+    "weight_g": 0,
+    "category": "冰淇淋",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p010-1.jpg"
+    ]
+  },
+  {
+    "title": "白熊煉乳冰淇淋",
+    "desc": "白熊アイス｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "冰淇淋",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p011-1.jpg"
+    ]
+  },
+  {
+    "title": "馬達加斯加香草冰淇淋",
+    "desc": "バニラアイス｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "冰淇淋",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "待確認",
+    "images": [
+      "images/p071-1.jpg"
+    ]
+  },
+  {
+    "title": "哈根達斯 7-11限定",
+    "desc": "ハーゲンダッツ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥300（含稅）",
+    "qty": "1入",
+    "priceJPY": 300,
+    "weight_g": 0,
+    "category": "冰淇淋",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "待確認",
+    "images": []
+  },
+  {
+    "title": "7P 宇治抹茶冰淇淋",
+    "desc": "抹茶アイス｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "冰淇淋",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 宇治抹茶冰淇淋",
+    "desc": "抹茶アイス｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "冰淇淋",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 布丁冰",
+    "desc": "プリンアイス｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "冰淇淋",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 冷凍調理包",
+    "desc": "冷凍調理包｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥400（含稅）",
+    "qty": "1入",
+    "priceJPY": 400,
+    "weight_g": 0,
+    "category": "冷凍",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 冷凍調理包",
+    "desc": "冷凍調理包｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥400（含稅）",
+    "qty": "1入",
+    "priceJPY": 400,
+    "weight_g": 0,
+    "category": "冷凍",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 巧克力泡芙（冷凍）",
+    "desc": "冷凍シュークリーム｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "冷凍",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 越光米飯（冷凍）",
+    "desc": "冷凍ごはん｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥200（含稅）",
+    "qty": "1入",
+    "priceJPY": 200,
+    "weight_g": 0,
+    "category": "冷凍",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7P 可樂餅（冷凍）",
+    "desc": "コロッケ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "冷凍",
+    "storage": "冷凍",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7Cafe 砂糖奶油樹白巧克力脆餅",
+    "desc": "サトウバターの木 白｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥198（含稅）",
+    "qty": "1入",
+    "priceJPY": 198,
+    "weight_g": 0,
+    "category": "7Cafe",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p015-1.jpg"
+    ]
+  },
+  {
+    "title": "焦糖布蕾砂糖樹夾心餅乾",
+    "desc": "キャラメルブレ砂糖樹｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥198（含稅）",
+    "qty": "1入",
+    "priceJPY": 198,
+    "weight_g": 0,
+    "category": "7Cafe",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p016-1.jpg"
+    ]
+  },
+  {
+    "title": "原味砂糖樹夾心餅乾",
+    "desc": "砂糖樹夾心餅乾｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥198（含稅）",
+    "qty": "1入",
+    "priceJPY": 198,
+    "weight_g": 0,
+    "category": "7Cafe",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p017-1.jpg"
+    ]
+  },
+  {
+    "title": "7Cafe 砂糖奶油樹脆餅（原味）",
+    "desc": "サトウバターの木｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥198（含稅）",
+    "qty": "1入",
+    "priceJPY": 198,
+    "weight_g": 0,
+    "category": "7Cafe",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7Cafe 砂糖奶油樹脆餅",
+    "desc": "サトウバターの木｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥198（含稅）",
+    "qty": "1入",
+    "priceJPY": 198,
+    "weight_g": 0,
+    "category": "7Cafe",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "現打果昔（巴西莓香蕉）",
+    "desc": "スムージー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥250（含稅）",
+    "qty": "1入",
+    "priceJPY": 250,
+    "weight_g": 0,
+    "category": "7Cafe飲品",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p062-1.jpg"
+    ]
+  },
+  {
+    "title": "透明杯裝拿鐵",
+    "desc": "透明カップ拿鐵｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥158（含稅）",
+    "qty": "1入",
+    "priceJPY": 158,
+    "weight_g": 0,
+    "category": "7Cafe飲品",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p063-1.jpg"
+    ]
+  },
+  {
+    "title": "現泡鮮奶茶",
+    "desc": "リーフティー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥158（含稅）",
+    "qty": "1入",
+    "priceJPY": 158,
+    "weight_g": 0,
+    "category": "7Cafe飲品",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p064-1.jpg"
+    ]
+  },
+  {
+    "title": "可可飲料",
+    "desc": "ココア｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥130（含稅）",
+    "qty": "1入",
+    "priceJPY": 130,
+    "weight_g": 0,
+    "category": "7Cafe飲品",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": [
+      "images/p065-1.jpg"
+    ]
+  },
+  {
+    "title": "7Cafe 現泡紅茶",
+    "desc": "ティー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥150（含稅）",
+    "qty": "1入",
+    "priceJPY": 150,
+    "weight_g": 0,
+    "category": "7Cafe飲品",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7Cafe 現磨咖啡",
+    "desc": "コーヒー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥120（含稅）",
+    "qty": "1入",
+    "priceJPY": 120,
+    "weight_g": 0,
+    "category": "7Cafe飲品",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7Cafe 抹茶拿鐵",
+    "desc": "抹茶ラテ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥180（含稅）",
+    "qty": "1入",
+    "priceJPY": 180,
+    "weight_g": 0,
+    "category": "7Cafe飲品",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7Cafe 現磨咖啡",
+    "desc": "コーヒー｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥120（含稅）",
+    "qty": "1入",
+    "priceJPY": 120,
+    "weight_g": 0,
+    "category": "7Cafe飲品",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
+    "images": []
+  },
+  {
+    "title": "7Cafe 抹茶拿鐵",
+    "desc": "抹茶ラテ｜日本7-11人氣商品（Threads/Dcard 熱議）。",
+    "price": "日本售價 JP¥180（含稅）",
+    "qty": "1入",
+    "priceJPY": 180,
+    "weight_g": 0,
+    "category": "7Cafe飲品",
+    "storage": "現場現做",
+    "shippable": false,
+    "channel": "7-11限定",
     "images": []
   }
 ]

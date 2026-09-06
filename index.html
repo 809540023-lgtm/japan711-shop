@@ -63,6 +63,8 @@
   .ainote{display:flex;gap:12px;align-items:center;background:var(--kin-soft);border:2px solid var(--kin);border-radius:14px;padding:18px 24px;margin:0 0 28px;font-size:1.1rem;line-height:1.7;font-weight:600;letter-spacing:.02em}
   .ainote .ic{font-size:1.6rem;flex:0 0 auto}
   .ainote b{color:var(--aka);font-size:1.18rem;font-weight:900}
+  .liverow{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .tag-live{background:var(--kin);color:#fff;font-size:.72rem;padding:3px 10px;border-radius:999px;letter-spacing:.06em;font-family:var(--jp)}
   .cats{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 20px}
   .cats button{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:8px 16px;font-size:.88rem;cursor:pointer;font-family:var(--sans)}
   .cats button[aria-pressed="true"]{background:var(--aka);color:#fff;border-color:var(--aka)}
@@ -266,7 +268,9 @@
   function renderProducts(){
     var html='';
     products.forEach(function(p){
-      if(activeCat!=='全部'&&p.category&&p.category!==activeCat)return;
+      if(activeCat==='常溫可代購'&&p.shippable!==true)return;
+      if(activeCat==='現場限定'&&p.shippable!==false)return;
+      if(activeCat!=='全部'&&activeCat!=='常溫可代購'&&activeCat!=='現場限定'&&p.category&&p.category!==activeCat)return;
       if(!p.images||!p.images.length)return;
       var count=p.images.length>1?'<span class="count">'+p.images.length+' 張</span>':'';
       var thumbs='';
@@ -275,8 +279,8 @@
       var meta=mp.length?'<div style="display:flex;gap:16px;align-items:baseline;flex-wrap:wrap">'+mp.join('')+'</div>':'';
       var desc=p.desc?'<div class="desc">'+esc(p.desc)+'</div>':'<div class="desc"></div>';
       var brand=p.officialUrl?'<a class="brand" href="'+esc(p.officialUrl)+'" target="_blank" rel="noopener">日本原廠官網 ↗</a>':'';
-      var buy=p.priceJPY>0?'<div class="buy"><div class="stepper"><button type="button" data-step="-1" data-idx="'+p.idx+'" aria-label="減少">−</button><input type="text" inputmode="numeric" value="1" data-qty="'+p.idx+'" aria-label="數量"><button type="button" data-step="1" data-idx="'+p.idx+'" aria-label="增加">＋</button></div><button class="addbtn" data-add="'+p.idx+'">加入購物車</button></div>':'<div class="buy"><button class="addbtn nostock" disabled>價格未辨識</button></div>';
-      html+='<div class="card"><div class="ph"><img id="cover-'+p.idx+'" loading="lazy" alt="'+esc(p.title)+'" src="'+esc(p.images[0])+'">'+count+'</div><div class="body"><div class="title">'+esc(p.title)+'</div>'+brand+desc+meta+'</div>'+thumbs+buy+'</div>';
+      var buy=(!p.shippable)?'<div class="buy"><button class="addbtn nostock" disabled>🏪 現場限定</button></div>':(p.priceJPY>0?'<div class="buy"><div class="stepper"><button type="button" data-step="-1" data-idx="'+p.idx+'" aria-label="減少">−</button><input type="text" inputmode="numeric" value="1" data-qty="'+p.idx+'" aria-label="數量"><button type="button" data-step="1" data-idx="'+p.idx+'" aria-label="增加">＋</button></div><button class="addbtn" data-add="'+p.idx+'">加入購物車</button></div>':'<div class="buy"><button class="addbtn nostock" disabled>價格未辨識</button></div>';
+      html+='<div class="card"><div class="ph"><img id="cover-'+p.idx+'" loading="lazy" alt="'+esc(p.title)+'" src="'+esc(p.images[0])+'">'+count+'</div><div class="body"><div class="liverow"><div class="title">'+esc(p.title)+'</div>'+(p.shippable===false?'<span class="tag-live">現場限定</span>':'')+'</div>'+brand+desc+meta+'</div>'+thumbs+buy+'</div>';
     });
     grid.innerHTML=html||'';
     if(!grid.innerHTML){renderEmpty();return;}
@@ -360,8 +364,8 @@
   });
 
   function boot(list){
-    products=(Array.isArray(list)?list:[]).map(function(p,i){return {idx:i,title:p.title||('商品 '+(i+1)),desc:p.desc||'',price:p.price||'',qtyDesc:p.qty||'',priceJPY:Number(p.priceJPY)||0,weight_g:Number(p.weight_g)||0,images:Array.isArray(p.images)?p.images:[],officialUrl:p.officialUrl||'',category:p.category||''};});
-    var cats=['全部'].concat(Array.from(new Set(products.map(function(p){return p.category;}).filter(Boolean))));
+    products=(Array.isArray(list)?list:[]).map(function(p,i){return {idx:i,title:p.title||('商品 '+(i+1)),desc:p.desc||'',price:p.price||'',qtyDesc:p.qty||'',priceJPY:Number(p.priceJPY)||0,weight_g:Number(p.weight_g)||0,images:Array.isArray(p.images)?p.images:[],officialUrl:p.officialUrl||'',category:p.category||'',shippable:p.shippable};});
+    var cats=['全部','常溫可代購','現場限定'].concat(Array.from(new Set(products.map(function(p){return p.category;}).filter(Boolean))));
     var bar=document.getElementById('catBar');
     bar.innerHTML=cats.map(function(c){return '<button type="button" data-cat="'+c+'" aria-pressed="'+(c===activeCat?'true':'false')+'">'+c+'</button>';}).join('');
     bar.querySelectorAll('button').forEach(function(b){b.addEventListener('click',function(){activeCat=b.getAttribute('data-cat');bar.querySelectorAll('button').forEach(function(x){x.setAttribute('aria-pressed',x===b?'true':'false');});renderProducts();});});
